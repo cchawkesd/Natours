@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cchawkesd/natours/issues"
   },
-  "homepage": "https://github.com/cchawkesd/natours#readme"
+  "homepage": "https://github.com/cchawkesd/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
 }
